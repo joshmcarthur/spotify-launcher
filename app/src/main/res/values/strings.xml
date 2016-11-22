@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Spotify Launcher</string>
+    <string name="missing_spotify">Could not prepare to launch Spotify. Is it (correctly) installed?</string>
+</resources>
