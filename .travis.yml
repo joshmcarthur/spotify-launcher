@@ -1,0 +1,7 @@
+language: android
+script: "./gradlew build test"
+android:
+  components:
+    - platform-tools
+    - android-23
+    - build-tools-23.0.1
